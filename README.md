@@ -3,11 +3,11 @@
 This is a display of sample websites that i made using HTML and CSS
 
 ## Projects
-- Flower shop Website
+- Bootstrap Website
 - One-Page Website
 - My Portfolio
 
-## Flower shop Website
+## Bootstrap Website
 
 This is a home page of a flower shop. It is styled by CSS and contain bootstrap, form, jumbotron, Navbar, dropdowns.
 
